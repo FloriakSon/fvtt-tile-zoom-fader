@@ -9,4 +9,8 @@ This very simple module adds configurable settings to tiles to let them fade in 
 
 - **Inverted :** Switches between fading in or out. Unchecked fades out as you zoom in, checked fades out as you zoom out.
 
-**Zoom Values :** Sets the start and end of the fade, with 0 being the minimum zoom and 1 being the maximum.
+**Zoom Values :** Sets the start and end of the fade, between 0 and 1.
+
+# Additionnal info
+
+Special thanks to all the kind people who helped me on Discord, ChaosOS, mxzf, Mana, unsoluble, and the ones I'm probably forgetting !
