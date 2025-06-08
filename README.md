@@ -2,6 +2,10 @@ Ever wanted to realize your fantasy google maps dreams ? To let your player dive
 
 This very simple module adds configurable settings to tiles to let them fade in and out depending on client zoom level, allowing for a variety of scene aesthetics and effects such as cloud overlay, fog, clearing windows...
 
+Assets created by me for demo purposes, not included in the module. Tile animated using the Tile Scroll module by theripper93
+[tile_zoom_fader_demo.webm](https://github.com/user-attachments/assets/c54f213e-3642-4783-8f5e-077390c2f054)
+
+
 ### Tile Settings
 
 **Fade :**
